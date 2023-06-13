@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">gemble3</string>
+    <string name="score">Score: %d</string>
+    <string name="time">Time: %d</string>
+    <string name="win_popup_message">Congratulations! Your score: %d</string>
+    <string name="game_over_popup_message">Game Over! Your score: %d</string>
+
+</resources>
